@@ -10,13 +10,15 @@
  
  <h3>Links to my online profiles and portfolios</h3>
  
-LinkedIn- https://www.linkedin.com/in/anish-singh-walia-924529103/
+<a href=https://www.linkedin.com/in/anish-singh-walia-924529103/" target="_blank">LinkedIn</a>
 
-Rpubs profile which consists of my project and their documentation-http://rpubs.com/anish20
+<a href="http://rpubs.com/anish20" target="_blank">Rpubs profile which consists of my project and their documentation</a>
 
-Medium profile-https://medium.com/@anishsingh20
+<a href="https://medium.com/@anishsingh20" target="_blank">Medium profile</a>
 
-Author at Datascienceplus-https://datascienceplus.com/author/anish-singh-walia/
+<a href="https://datascienceplus.com/author/anish-singh-walia/" target="_blank">Author at Datascienceplus</a>
+
+
 
 
 
