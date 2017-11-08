@@ -8,12 +8,18 @@
  I love to play with data. Playing, analyzing and visualizing data in my favorite hobby. I have a good experience of analyzing and exploring various public data sets.  I prefer R as my tool as , I am more of a statistics person.</i>
  
  
- <h3>Links to my profiles</h3>
+ <h3>Links to my online profiles and portfolios</h3>
  
 LinkedIn- https://www.linkedin.com/in/anish-singh-walia-924529103/
 
 Rpubs profile which consists of my project and their documentation-http://rpubs.com/anish20
 
-Medium articles-https://medium.com/@anishsingh20
+Medium profile-https://medium.com/@anishsingh20
+
+Author at Datascienceplus-https://datascienceplus.com/author/anish-singh-walia/
+
+
+
+
 
 
