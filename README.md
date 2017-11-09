@@ -1,7 +1,7 @@
 <h1>Anish Singh Walia</h1>
 
-<h2>My Portfolio</h2>
-   > Link to my portfolio- [link](https://www.gitshowcase.com/anishsingh20) 
+<h1>My Portfolio</h1>
+   
  
  <h3>What I do?</h3>
  
@@ -26,14 +26,17 @@
  
 <h2>Links to my online profiles and portfolios</h2>
  
-<a href="https://www.linkedin.com/in/anish-singh-walia-924529103/" target="_blank" style="font-color:black;font-weight:none">LinkedIn</a>
+> <a href="https://www.linkedin.com/in/anish-singh-walia-924529103/" target="_blank" style="font-color:black;font-weight:none">LinkedIn</a>
 
-<a href="http://rpubs.com/anish20" target="_blank" style="font-color:black;font-weight:none">Rpubs profile which consists of my Data science projects and their documentation</a>
+ > <a href="http://rpubs.com/anish20" target="_blank" style="font-color:black;font-weight:none">Rpubs profile which consists of my Data science projects and their documentation</a>
 
-<a href="https://medium.com/@anishsingh20" target="_blank" style="font-color:black;font-weight:none">Data science articles on Medium </a>
+> <a href="https://medium.com/@anishsingh20" target="_blank" style="font-color:black;font-weight:none">Data science articles on Medium </a>
 
-<a href="https://datascienceplus.com/author/anish-singh-walia/" target="_blank" style="font-color:black;font-weight:none">Author at Datascienceplus</a>
+> <a href="https://datascienceplus.com/author/anish-singh-walia/" target="_blank" style="font-color:black;font-weight:none">Author at Datascienceplus</a>
 
+> [GitShowcase](https://www.gitshowcase.com/anishsingh20) 
+
+> [Github](https://github.com/anishsingh20/)
 
 <hr>
 
