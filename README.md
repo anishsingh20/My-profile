@@ -20,6 +20,11 @@
  <hr>
  
  <h2>Skills</h2>
+   <ul> Programming languages
+      <li></li>
+      <li></li>
+      <li></li>
+   </ul>
  
  
  <hr>
