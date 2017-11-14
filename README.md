@@ -11,7 +11,7 @@
  <hr>
  
  
- <h3>Interests</h3>
+ <h2>Interests</h2>
  
  
  <hr>
